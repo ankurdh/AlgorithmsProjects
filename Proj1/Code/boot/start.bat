@@ -1,0 +1,1 @@
+java -cp ..\lib\project1.jar;..\lib\gnujaxp.jar;..\lib\iText-2.1.5.jar;..\lib\jcommon-1.0.17.jar;..\lib\jfreechart-1.0.14.jar;..\lib\jfreechart-1.0.14-swt.jar edu.uncc.main.Main test_correctness plot_graphs
